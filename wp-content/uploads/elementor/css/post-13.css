@@ -23,6 +23,12 @@
     left: 0;
     width: 100%;
 }/* End custom CSS */
+
+
+.elementor-13 .elementor-element.elementor-element-5379294b:not(.elementor-motion-effects-element-type-background), .elementor-13 .elementor-element.elementor-element-5379294b > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-image: url(http://localhost/foodlandingpagewordpress/wp-content/uploads/2020/11/baground.png);
+    background: #FF9154;
+}
 /* Start custom CSS for image-box, class: .elementor-element-2c3d1d3 */.elementor-image-box-wrapper{
     
     background-color:#FFFFFF;
